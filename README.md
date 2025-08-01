@@ -89,6 +89,7 @@ I love exploring new technologies, continuously learning, and showcasing my skil
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Subramaniyajothi6&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" width="48%" height="200px" />
 
+  <br/>
   <!-- GitHub Streak -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=tokyonight&hide_border=false&border_radius=5" width="50%" />
 
