@@ -86,19 +86,19 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 ## 📊 GitHub Stats
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Subramaniyajothi6&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" width="49%" height="200px"/>
-<br/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Subramaniyajothi6&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" width="48%" height="200px" />
 
-<!-- GitHub Streak -->
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramaniyajothi6&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="48%" height="200px" />
+  
+  <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=tokyonight&hide_border=false&border_radius=5" width="49%" />
-<br/>
+  <!-- GitHub Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=tokyonight&hide_border=false&border_radius=5" width="70%" />
 
-<!-- Top Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramaniyajothi6&layout=compact&theme=tokyonight&hide_border=false" width="49%" height="200px"/>
 </div>
+
 
 
 
