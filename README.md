@@ -8,27 +8,52 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 
 ---
 
+
 ## 🌐 Socials
-<a href="https://linkedin.com/in/subramaniyajothi-s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://reddit.com/user/Proud-Register-2104"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/24310580/subramaniyajothi-s"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-<a href="https://codepen.io/Subramaniyajothi-S"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" /></a>
-<a href="mailto:subrmaniyajothi2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+
+<a href="https://linkedin.com/in/subramaniyajothi-s">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://reddit.com/user/Proud-Register-2104">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/24310580/subramaniyajothi-s">
+  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://codepen.io/Subramaniyajothi-S">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+<a href="mailto:subrmaniyajothi2002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 ---
-💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+## 💻 Tech Stack
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS" title="TailwindCSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+</div>
+
 
 ---
 
@@ -53,11 +78,26 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Subramaniyajothi6&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Subramaniyajothi6&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" width="49%" height="200px"/>
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=dark&hide_border=false"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramaniyajothi6&theme=dark&hide_border=false&layout=compact"/>
+
+<!-- GitHub Streak -->
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=tokyonight&hide_border=false&border_radius=5" width="49%" />
+<br/>
+<br/>
+
+<!-- Top Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramaniyajothi6&layout=compact&theme=tokyonight&hide_border=false" width="49%" height="200px"/>
+
+</div>
+
+
 
 ---
 
@@ -66,21 +106,16 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 
 ---
 
-### ✍️ Dev Quote
-<p align="center">
-  <b><i>"A full stack developer is not someone who knows everything — it's someone who can build anything by learning what’s needed."</i></b><br>
-  — <i>Inspired by modern development mindset</i>
-</p>
 
+## 🔝 Top Contributed Repos
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Subramaniyajothi6&limit=5&theme=dark&combine_all_yearly_contributions=true" width="70%"/>
+</div>
 ---
-
-### 🔝 Top Contributed Repos
-<img src="https://github-contributor-stats.vercel.app/api?username=Subramaniyajothi6&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
----
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Subramaniyajothi6&icon=7&color=0" />
-</a>
+<div align = "center">
+  
+<img src="https://raw.githubusercontent.com/iampriyanshusingh/iampriyanshusingh/output/snake.svg" alt="Snake animation" />
+<div/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
