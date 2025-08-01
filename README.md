@@ -90,12 +90,12 @@ I love exploring new technologies, continuously learning, and showcasing my skil
   <img src="https://github-readme-stats.vercel.app/api?username=Subramaniyajothi6&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" width="48%" height="200px" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramaniyajothi6&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramaniyajothi6&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="45%" height="200px" />
   
   <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=tokyonight&hide_border=false&border_radius=5" width="70%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=tokyonight&hide_border=false&border_radius=5" width="50%" />
 
 </div>
 
