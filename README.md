@@ -101,19 +101,7 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 </div>
 
 
-
-
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subramaniyajothi6&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
-</div>
-
-
----
-
 
 
 
