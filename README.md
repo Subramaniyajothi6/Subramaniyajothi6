@@ -11,21 +11,27 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 
 ## 🌐 Socials
 
-<a href="https://linkedin.com/in/subramaniyajothi-s">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://reddit.com/user/Proud-Register-2104">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/24310580/subramaniyajothi-s">
-  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</a>
-<a href="https://codepen.io/Subramaniyajothi-S">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
-<a href="mailto:subrmaniyajothi2002@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/subramaniyajothi-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reddit.com/user/Proud-Register-2104">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/24310580/subramaniyajothi-s">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codepen.io/Subramaniyajothi-S">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:subrmaniyajothi2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 
 ---
@@ -83,18 +89,15 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 <!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=Subramaniyajothi6&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" width="49%" height="200px"/>
 <br/>
-<br/>
 
 <!-- GitHub Streak -->
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=tokyonight&hide_border=false&border_radius=5" width="49%" />
 <br/>
-<br/>
 
 <!-- Top Languages -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramaniyajothi6&layout=compact&theme=tokyonight&hide_border=false" width="49%" height="200px"/>
-
 </div>
 
 
@@ -102,9 +105,15 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Subramaniyajothi6&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subramaniyajothi6&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
+</div>
+
 
 ---
+
+
 
 
 ## 🔝 Top Contributed Repos
@@ -112,6 +121,8 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Subramaniyajothi6&limit=5&theme=dark&combine_all_yearly_contributions=true" width="70%"/>
 </div>
+
+
 ---
 <div align = "center">
   
