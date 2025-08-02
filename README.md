@@ -115,8 +115,9 @@ I love exploring new technologies, continuously learning, and showcasing my skil
 
 
 ---
-<div align = "center">
-<img src="https://raw.githubusercontent.com/iampriyanshusingh/iampriyanshusingh/output/snake.svg" alt="Snake animation" />
-<div/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Subramaniyajothi6/Subramaniyajothi6/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
