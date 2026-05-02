@@ -1,123 +1,151 @@
-<h1 align="center">Subramaniyajothi S</h1>
-
-## 💫 About Me  
-I am currently an engineering student passionate about building engaging and user-friendly digital experiences.  
-I enjoy working across the full stack, combining both frontend and backend skills to deliver complete solutions.  
-I'm especially interested in creating highly responsive and visually stunning websites, including 3D interfaces and smooth user interactions.  
-I love exploring new technologies, continuously learning, and showcasing my skills through real-world projects.
-
----
-
-
-## 🌐 Socials
-
-<div align="center">
-  <a href="https://linkedin.com/in/subramaniyajothi-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://reddit.com/user/Proud-Register-2104">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/24310580/subramaniyajothi-s">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codepen.io/Subramaniyajothi-S">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:subrmaniyajothi2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-
----
-## 💻 Tech Stack
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS" title="TailwindCSS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
-</div>
-
-
----
-
-## 🚀 Projects
-- 🔗 [Flip Memory Game](https://flip-memorygame.netlify.app/)  
-  A card matching game built with HTML, CSS, and JavaScript.
-
-- 🔗 [Landing Page with Tailwind CSS](https://landing-page-with-tailwind-css.netlify.app/)  
-  A responsive landing page designed using TailwindCSS.
-
-- 🔗 [Book Store App (Frontend)](https://book-store-app-frontend-s1mp.vercel.app/)  
-  A full-stack book management app with user login/logout, built using React.
-
----
-
-## 📘 Learning Journey
-- Interested in learning **TypeScript** and **Next.js**
-- Exploring **UI/UX design** principles and tools like Figma
-- Building more real-world projects using **MERN stack**
-- Practicing DSA and planning to contribute to open source soon
-
----
-
-## 📊 GitHub Stats
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Subramaniyajothi6&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" width="48%" height="200px" />
-
-  <br/>
-  <!-- GitHub Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Subramaniyajothi6&theme=tokyonight&hide_border=false&border_radius=5" width="50%" />
-
-  <br/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramaniyajothi6&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" width="45%" height="200px" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Subramaniyajothi%20S&fontSize=60&fontColor=fff&fontAlignY=40&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder&descAlignY=62&descSize=17&animation=twinkling" width="100%" />
 
 </div>
 
-
----
-
-
-
-## 🔝 Top Contributed Repos
-
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Subramaniyajothi6&limit=5&theme=dark&combine_all_yearly_contributions=true" width="70%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Engineering+Student+%7C+Full+Stack+Developer;%F0%9F%A4%96+Exploring+AI+%26+Modern+Web+Stacks;%F0%9F%8E%A8+Crafting+3D+UIs+%26+Smooth+Interactions;%F0%9F%9A%80+MERN+%E2%80%A2+TypeScript+%E2%80%A2+TanStack+%E2%80%A2+Prisma)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subramaniyajothi-s)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Proud-Register-2104)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24310580/subramaniyajothi-s)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Subramaniyajothi-S)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subrmaniyajothi2002@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Subramaniyajothi6&color=7c3aed&style=flat-square&label=Profile+Views)
+
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## ⚡ `whoami`
+
+```typescript
+const subramaniyajothi: Developer = {
+  role:       "Full Stack Developer & Engineering Student",
+  location:   "India 🇮🇳",
+
+  current: {
+    learning:  ["TypeScript", "Next.js", "TanStack", "PostgreSQL", "Prisma", "AI/LLM"],
+    building:  "Real-world MERN + modern stack projects",
+    exploring: "AI integration & 3D Web Interfaces",
+  },
+
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "Express.js", "REST APIs"],
+    database:  ["MongoDB", "MySQL", "PostgreSQL", "Prisma ORM"],
+    query:     ["TanStack Query", "TanStack Router"],
+    ai:        ["OpenAI API", "Prompt Engineering", "LLM Apps"],
+    design:    ["Figma", "3D UI", "Framer Motion"],
+  },
+
+  motto:  "Build → Break → Learn → Repeat ∞",
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Subramaniyajothi6/Subramaniyajothi6/output/snake.svg" alt="Snake animation" />
+
+### 🚀 Core
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+<br/>
+
+### ⚙️ Backend & Data
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+<br/>
+
+### 🧠 Modern Stack & AI
+<p>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<br/>
+
+### 🛠️ Tools & Design
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
 </div>
 
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subramaniyajothi6&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subramaniyajothi6&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subramaniyajothi6&theme=tokyonight" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Subramaniyajothi6&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subramaniyajothi6/Subramaniyajothi6/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subramaniyajothi6/Subramaniyajothi6/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Subramaniyajothi6/Subramaniyajothi6/output/snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
