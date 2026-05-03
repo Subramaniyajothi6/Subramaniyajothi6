@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Subramaniyajothi%20S&fontSize=60&fontColor=fff&fontAlignY=40&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder&descAlignY=62&descSize=17&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,24,25&height=220&section=header&text=Subramaniyajothi%20S&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder&descAlignY=60&descSize=17&animation=twinkling" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Engineering+Student+%7C+Full+Stack+Developer;%F0%9F%A4%96+Exploring+AI+%26+Modern+Web+Stacks;%F0%9F%8E%A8+Crafting+3D+UIs+%26+Smooth+Interactions;%F0%9F%9A%80+MERN+%E2%80%A2+TypeScript+%E2%80%A2+TanStack+%E2%80%A2+Prisma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Engineering+Student+%7C+Full+Stack+Dev;%F0%9F%A4%96+AI+Explorer+%7C+LLM+Apps;%F0%9F%8E%A8+3D+UIs+%7C+Smooth+Interactions;%F0%9F%9A%80+MERN+%E2%80%A2+TypeScript+%E2%80%A2+TanStack+%E2%80%A2+Prisma;%F0%9F%94%AE+Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat+%E2%88%9E)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,110 +18,95 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Subramaniyajothi6&color=7c3aed&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Subramaniyajothi6&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ⚡ `whoami`
-
-```typescript
-const subramaniyajothi: Developer = {
-  role:       "Full Stack Developer & Engineering Student",
-  location:   "India 🇮🇳",
-
-  current: {
-    learning:  ["TypeScript", "Next.js", "TanStack", "PostgreSQL", "Prisma", "AI/LLM"],
-    building:  "Real-world MERN + modern stack projects",
-    exploring: "AI integration & 3D Web Interfaces",
-  },
-
-  stack: {
-    frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend:   ["Node.js", "Express.js", "REST APIs"],
-    database:  ["MongoDB", "MySQL", "PostgreSQL", "Prisma ORM"],
-    query:     ["TanStack Query", "TanStack Router"],
-    ai:        ["OpenAI API", "Prompt Engineering", "LLM Apps"],
-    design:    ["Figma", "3D UI", "Framer Motion"],
-  },
-
-  motto:  "Build → Break → Learn → Repeat ∞",
-};
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚡ About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<br/>
+
+🎓 &nbsp; Engineering student from **Tamil Nadu, India**
+
+🔭 &nbsp; Building **MERN + TypeScript** full-stack apps
+
+🤖 &nbsp; Exploring **AI / LLM** integration into web
+
+🎨 &nbsp; Obsessed with **3D UIs & smooth animations**
+
+📐 &nbsp; Learning **UI/UX design** with Figma
+
+🌱 &nbsp; Mastering **TanStack · Prisma · PostgreSQL**
+
+⚡ &nbsp; Next goal → **Open Source contributions**
+
+💬 &nbsp; Ask me about **React, Node.js, or anything web!**
+
+🎯 &nbsp; **Build → Break → Learn → Repeat ∞**
+
+<br/><br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🚀 Core
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+### ⚡ Core & Frontend
 
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
 
-### ⚙️ Backend & Data
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
+### 🗄️ Backend & Databases
 
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres,prisma,py&theme=dark&perline=8)](https://skillicons.dev)
 
-### 🧠 Modern Stack & AI
-<p>
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-<br/>
 
 ### 🛠️ Tools & Design
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,netlify,webstorm&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🗺️ 2025 Learning Roadmap
+
+```
+  ██████████  React + MERN Stack         ✅  Solid
+  ████████░░  TailwindCSS + UI/UX        ✅  Strong
+  ███████░░░  TypeScript                 🔄  In Progress
+  ██████░░░░  Next.js                    🔄  In Progress
+  █████░░░░░  PostgreSQL + Prisma ORM    🔄  Learning
+  ████░░░░░░  TanStack Query / Router    🔄  Exploring
+  ███░░░░░░░  AI / LLM Integration       🆕  Just Started
+  ██░░░░░░░░  Open Source Contribution   📌  Up Next
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subramaniyajothi6&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subramaniyajothi6&theme=tokyonight" width="95%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subramaniyajothi6&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subramaniyajothi6&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subramaniyajothi6&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subramaniyajothi6&theme=tokyonight"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Subramaniyajothi6&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Subramaniyajothi6&theme=tokyonight&hide_border=true&border_radius=5&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="55%"/>
 
 </div>
 
@@ -140,12 +125,8 @@ const subramaniyajothi: Developer = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
-*"The best way to predict the future is to build it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,24,25&height=130&section=footer&animation=twinkling" width="100%" />
 
 </div>
